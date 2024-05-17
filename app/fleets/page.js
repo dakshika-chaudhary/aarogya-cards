@@ -6,7 +6,7 @@ export default function Fleets(){
     return(
         
 
-       <div className="py-24 bg-gray-200">
+       <div className="py-24 bg-white">
        <div className="upper">
         <div className="flex">
         <input className="location" placeholder="Set your location"></input>
