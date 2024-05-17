@@ -39,7 +39,7 @@ body {
  
 }
 .upper{
-  background-color:white;
+  background-color:whitesmoke;
   height:150px;
   max-width:1200px;
   padding:0 2rem;
@@ -51,7 +51,7 @@ body {
 
 .location{
 margin-top:22px;
-background-color:whitesmoke;
+background-color:white;
 height:30px;
 width:300px;
 margin-left:20px;
@@ -65,7 +65,7 @@ border-radius:5px;
 }
 .docterhospital{
   margin-top:22px;
-  background-color:whitesmoke;
+  background-color:white;
   height:30px;
   width:600px;
   margin-left:20px;
@@ -103,7 +103,7 @@ border-radius:4px;
 }
 
 .cardbox{
-  background-color:white;
+  background-color:whitesmoke;
   display:flex;
 border-radius: 20px;
  margin-top:25px;
